@@ -1,0 +1,4 @@
+/target/
+/WebPerformanceTester.iml
+*.csv
+/.idea/
